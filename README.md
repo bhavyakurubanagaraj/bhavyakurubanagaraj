@@ -50,11 +50,11 @@
 
 ## 🎓 **Education & Certifications**  
 **Yeshiva University**  
-*MS in Data Analytics & Visualization (2023-2024)*  
+*MS in Data Analytics & Visualization *  
 - Relevant Coursework: Big Data Systems, Predictive Modeling, Advanced SQL  
 
 **Ballari Institute of Technology**  
-*BTech in Electronics & Communication (2018-2022)*  
+*BTech in Electronics & Communication *  
 
 **Certifications:**  
 - AWS Certified Solutions Architect Associate  
