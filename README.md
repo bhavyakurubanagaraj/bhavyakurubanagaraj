@@ -1,111 +1,94 @@
 # 👋 Hi, I'm Kuruba Nagaraj Bhavya  
-**Data Analyst | Cloud Practitioner | BI Developer**
-
-📫 [bhavyakurubanagaraj@gmail.com](mailto:bhavyakurubanagaraj@gmail.com) | 📞 +1 (347) 523-6636  
+**Sr. Data Analyst | Cloud Practitioner | BI Developer**  
+📫 [bhavyakn2017@gmail.com](mailto:bhavyakn2017@gmail.com) | 📞 +1 (347) 523-6636  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](Your_LinkedIn_URL)
 
 ---
 
-## 🚀 About Me
-
-- 💼 5+ years of experience transforming data into business insights across **cloud, ML, and BI platforms**
-- ☁️ AWS Certified professional with hands-on in **Redshift, EMR, and S3**
-- 📊 Delivered 50+ BI dashboards (Tableau/Power BI), driving **30%+ faster decision-making**
-- 🤖 Experience in **machine learning**, **NLP**, and **predictive modeling**
-- 🔍 Focused on **data storytelling**, **ETL optimization**, and **cloud-native analytics**
+## 🚀 **About Me**  
+- 📊 **5+ years** of experience delivering strategic insights from complex data  
+- ☁️ Skilled across **AWS, GCP, Azure** platforms for cloud-native data solutions  
+- 📈 Developed 50+ dashboards in Tableau/Power BI to drive business decisions  
+- 🔍 Passionate about **ETL**, **predictive analytics**, and **data storytelling**  
+- 🧠 Exploring **LLMs** for unstructured data insights  
 
 ---
 
-## 🛠️ Technical Toolkit
+## 🛠️ **Technical Toolkit**  
 
 **Languages**:  
-![Python](https://img.shields.io/badge/Python-Pandas|NumPy|Scikit--learn-blue) ![R](https://img.shields.io/badge/R-Statistics|ggplot2-lightblue) ![SQL](https://img.shields.io/badge/SQL-MySQL|PostgreSQL|BigQuery-4479A1) ![Java](https://img.shields.io/badge/Java-Basics-red)
+![Python](https://img.shields.io/badge/Python-Pandas|NumPy|Scikit--learn-blue)  
+![SQL](https://img.shields.io/badge/SQL-Oracle|PostgreSQL|BigQuery-4479A1)  
+![Java](https://img.shields.io/badge/Java-Programming-orange)
 
-**Visualization**:  
-![Power BI](https://img.shields.io/badge/Power_BI-DAX|Power_Query-yellow) ![Tableau](https://img.shields.io/badge/Tableau-Dashboards|KPI-e97627) ![Looker](https://img.shields.io/badge/Looker-Data_Studio-blue)
+**BI Tools**:  
+![PowerBI](https://img.shields.io/badge/Power_BI-DAX|Power_Query-yellow)  
+![Tableau](https://img.shields.io/badge/Tableau-LOD|Parameters-e97627)  
+![Looker](https://img.shields.io/badge/Looker-Data_Exploration-2F4F4F)
 
-**Cloud & Big Data**:  
-![AWS](https://img.shields.io/badge/AWS-Redshift|S3|EMR-FF9900) ![GCP](https://img.shields.io/badge/GCP-BigQuery|Cloud_Functions-4285F4) ![Azure](https://img.shields.io/badge/Azure-Blob|Data_Lake-blue)
+**Cloud Platforms**:  
+![AWS](https://img.shields.io/badge/AWS-Redshift|S3|EMR-FF9900)  
+![GCP](https://img.shields.io/badge/GCP-BigQuery|Data_Studio-4285F4)  
+![Azure](https://img.shields.io/badge/Azure-Cloud-blue)
 
-**ETL & DevOps**:  
-![ETL](https://img.shields.io/badge/ETL-Informatica|Airflow|Talend-green) ![Docker](https://img.shields.io/badge/Docker-MLflow|CI/CD-2496ED) ![Git](https://img.shields.io/badge/GitHub-Version_Control-black)
-
-**ML & Analytics**:  
-![ML](https://img.shields.io/badge/ML-XGBoost|RandomForest|TensorFlow-FF6F61) ![NLP](https://img.shields.io/badge/NLP-NLTK|TextBlob-purple) ![A/B Testing](https://img.shields.io/badge/Stats-Hypothesis_Testing|Experimentation-orange)
-
----
-
-## 💼 Professional Experience
-
-### 🔷 **Sr. Data Analyst**  
-**Client: Amazon Web Services** – *Sep 2023 – Present*  
-- Developed Spark ETL pipelines on **AWS EMR**, processing **10M+ records/day**  
-- Built **XGBoost churn model** (AUC: 0.92) to guide user retention strategies  
-- Created real-time **Tableau dashboards** monitoring KPIs and user behavior  
-- Automated validation frameworks using **Python + Informatica**, reducing anomalies by 30%  
-- Integrated NLP for analyzing customer feedback via **TextBlob & NLTK**  
-- Supported CI/CD deployment of models using **Docker + MLflow**
+**ETL & Others**:  
+Informatica, Apache Airflow, Talend, Git, Jupyter, Excel (Macros, VLOOKUP, PivotTables)
 
 ---
 
-### 🟡 **Data Analyst**  
-**Client: General Electric (GE Power Systems)** – *Sep 2021 – Dec 2022*  
-- Deployed fault prediction model (Neural Network) improving failure detection by **35%**  
-- Automated data validation using **Python & MySQL**, improving data integrity  
-- Built **CI/CD pipelines** using Jenkins and Docker  
-- Led **root cause analysis** and system reporting with Pandas, SQL, and Matplotlib  
-- Developed Tableau dashboards and alerts monitoring **15+ KPIs**
+## 💼 **Professional Experience**
+
+### **Sr. Data Analyst**  
+**Client: Stryker, Frisco, TX** | *Sep 2023 – Present*  
+- Designed and optimized dimensional data marts using ERwin  
+- Built Spark-based ETL pipelines processing 10M+ records daily on AWS  
+- Applied ML models (Random Forest, XGBoost) for customer segmentation  
+- Built real-time dashboards in Tableau with live KPIs and cohort analysis  
+- Used NLP (TextBlob, NLTK) to analyze feedback and improve strategies  
+- Led analytics solutions delivery end-to-end with DevOps & MLflow  
+
+### **Data Analyst**  
+**Client: Cognizant, India** | *Sep 2021 – Dec 2022*  
+- Automated validation and fault detection using Python + MySQL  
+- Deployed neural net models in Dockerized CI/CD pipelines  
+- Created real-time alerting for anomalies and quality issues  
+- Collaborated on EDA, RCA, and dashboard reporting with Matplotlib, Pandas  
+
+### **Data Analyst**  
+**Client: CPG, India** | *Dec 2020 – Jul 2021*  
+- Created automated Python frameworks reducing manual testing by 60%  
+- Built fault prediction models with 35% increased accuracy  
+- Streamlined sensor data processing using MySQL ETL pipelines  
+- Built Power BI and Tableau dashboards for predictive maintenance  
 
 ---
 
-### 🔹 **Data Analyst**  
-**Client: Tata Motors (EV Division)** – *Dec 2020 – Jul 2021*  
-- Automated 60% of testing validation for EV embedded systems using Python  
-- Forecasted failure patterns using regression/classification ML models  
-- Built Power BI dashboards visualizing **real-time telemetry sensor data**  
-- Integrated Docker containers with Jenkins pipelines for **Agile automation**  
-- Created structured ETL pipelines storing sensor data to **MySQL DB**
+## 🎓 **Education & Certifications**
 
----
+**🎓 Education**  
+- MS in Data Analytics & Visualization – *Yeshiva University*  
+- BTech in Electronics & Communication – *Ballari Institute of Tech & Mgmt*
 
-## 🎓 Education & Certifications
-
-**🎓 Yeshiva University, New York**  
-*MS in Data Analytics & Visualization *  
-- Key Areas: Big Data Systems, Advanced SQL, Predictive Modeling  
-
-**🎓 Ballari Institute of Technology, India**  
-*BTech – Electronics & Communication Engineering *  
-
-**🎖️ Certifications**  
-- AWS Certified Solutions Architect – Associate  
+**📜 Certifications**  
 - AWS Certified Cloud Practitioner  
+- AWS Certified Solutions Architect Associate  
 - Microsoft Power BI Data Analyst Associate  
-- Big Data Professional (Intellipaat)
+- Big Data Certification – *Intellipaat*
 
 ---
 
-## 📌 Featured Projects
-
-[![Customer Churn](https://img.shields.io/badge/🔍_Customer_Churn_Predictor-GitHub-181717)](Your_Repo_Link)  
-- Built an XGBoost model predicting churn with **89% precision**
-
-[![Real-Time Sales](https://img.shields.io/badge/📈_Real_Time_Sales_Dashboard-Tableau-e97627)](Your_Tableau_Link)  
-- Reduced reporting time by **50%** using Tableau dashboards
-
-[![Streaming ETL](https://img.shields.io/badge/⚙️_Streaming_ETL_Pipeline-AWS_EMR-green)](Your_Repo_Link)  
-- Built a Spark Streaming pipeline processing live event data
+## 🌟 **What I Bring to the Table**  
+✔️ End-to-end data analytics lifecycle experience  
+✔️ Strong BI and cloud platform integration skills  
+✔️ Hands-on with predictive analytics and ML workflows  
+✔️ Clear, actionable visual storytelling and executive reporting  
 
 ---
 
-## 🌟 Strengths I Bring to the Table
-
-✔️ End-to-end analytics ownership: from raw data to executive dashboards  
-✔️ Cloud-first data architecture on AWS/GCP/Azure  
-✔️ Predictive ML models for churn, failure prediction & sentiment  
-✔️ Strong stakeholder communication & agile collaboration  
-✔️ Obsessed with building **clean, reliable, and actionable** data products
+## 📊 **Featured Projects**
+[![Repo1](https://img.shields.io/badge/🔍_Customer_Churn_Analysis-GitHub-181717)](Your_GitHub_Link)  
+[![Repo2](https://img.shields.io/badge/📈_Real_Time_Sales_Dashboard-Tableau-e97627)](Your_Tableau_Link)
 
 ---
 
-📬 *Let’s collaborate to transform your data into your next big win!*
+*Let’s connect and explore how data can drive impactful decisions!*  
